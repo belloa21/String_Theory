@@ -12,8 +12,13 @@ if string[16] == 'l':
     print("The last character is l")
 
 print(string.upper())
+print("This is your string all upper case.")
 print(string.title())
+print("This is your string in all title case.")
 print(string.isalpha())
+print("Your string is not in alphabeticle order.")
 print(string.split())
-print(string.islower())
+print("This is the string split into individual strings.")
+print(string.lower())
+print("This is the string in all lower case.")
 
