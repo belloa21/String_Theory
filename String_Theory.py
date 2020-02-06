@@ -15,5 +15,5 @@ print(string.upper())
 print(string.title())
 print(string.isalpha())
 print(string.split())
-print(string.isupper())
+print(string.islower())
 
